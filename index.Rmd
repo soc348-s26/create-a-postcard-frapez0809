@@ -1,29 +1,35 @@
 ---
-title: "My Postcard"
+title: "Franklin Perez Postcard"
 image: "profile.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://linkedin.com/franklin-perez123"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/frapez0809"
   - label: Email
-    url: "mailto:email@example.com"
+    url: "franklinperez04040@gmail.com"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-This is a sample postcard site created with the postcards R package.
+My name is Franklin, I am currently a senior at Lehman College pursuing a Bachelors in Marketing and a Minor in Data Science. Fun fact, this is my second time taking SOC 348!
 
 ## Education
 
-**University Name** | City, State
+**Lehman College** | Bronx, NY
 
-B.S. in Subject | Year - Year
+B.S. Business Administration | 2022 - 2026
 
 ## Experience
 
-**Company Name** | Position | Year - Year
+**Stagwell** | Brand and Performance Marketing Intern | 2025 - 2025
+**Assembly Global** | Video Audio and Display Intern | 2025 - 2025
+**Nos Quedamos** | Communications Intern | 2024 - 2024
+**MindBuilders Inc** | Marketing Intern | 2025 - 2025
 
 Description of role and responsibilities.
+
+Management of Social Media
+Creation and Distribution of creative content such as, flyers, short form, and long form content
